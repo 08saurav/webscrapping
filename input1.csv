@@ -1,0 +1,28 @@
+source,dest,dateofdeparture,class
+kolkata,bangalore,20200214,E
+bangalore,kolkata,20200214,E
+kolkata,mumbai,20200214,E
+mumbai,kolkata,20200214,E
+mumbai,bangalore,20200214,E
+kolkata,chennai,20200214,E
+chennai,kolkata,20200214,E
+chennai,mumbai,20200214,E
+mumbai,chennai,20200214,E
+chennai,bangalore,20200214,E
+bangalore,chennai,20200214,E
+new delhi,kolkata,20200214,E
+kolkata,new delhi,20200214,E
+new delhi,mumbai,20200214,E
+mumbai,new delhi,20200214,E
+bangalore,new delhi,20200214,E
+new delhi,bangalore,20200214,E
+chandigarh,mumbai,20200214,E
+mumbai,chandigarh,20200214,E
+chandigarh,kolkata,20200214,E
+kolkata,chandigarh,20200214,E
+bangalore,chandigarh,20200214,E
+chandigarh,bangalore,20200214,E
+new delhi,chandigarh,20200214,E
+chandigarh,new delhi,20200214,E
+chennai,chandigarh,20200214,E
+chandigarh,chennai,20200214,E
